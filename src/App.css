@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.videoclub{
+  display: flex;
+text-align: left;
+}
+
+.pelicula{
+  margin: 80px;
+  border: 2px solid white;
+  background-color: grey;
+  padding: 15px;
+  border-radius: 10px;
+}
